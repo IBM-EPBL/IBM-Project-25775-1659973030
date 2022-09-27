@@ -3,7 +3,7 @@ Car Resale value Prediction
 
 |NAME              | ROLL NUMBER | DEPARTMENT  |   
 |-----------------:|:-----------:|:-----------:|
-|KARTHIKEYAN H     |  190801081  |   ECE       |   
-|KAMESH P          |  190801074  |   ECE       |   
-|KARTHIK VIGNESH S |  190801079  |   ECE       |
-|HARISH T          |  190801062  |   ECE       | 
+|VIMAL RAJ E       |  1919102188 |   CSE       |   
+|SUCHIT V          |  1919102188 |   CSE       |   
+|SWETHA M          |  1919102188 |   CSE       |
+|VIDHYA M          |  1919102188 |   CSE    | 
